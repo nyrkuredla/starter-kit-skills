@@ -19,7 +19,7 @@ starter-kit/
 
 ## The idea
 
-Many AI workflows fail at the same place: someone asks for a tool before they
+Many workflows fail at the same place: someone asks for a tool before they
 understand their actual problem. They get a generic answer, use it twice, and
 abandon it.
 
@@ -27,14 +27,14 @@ This kit runs you through two focused steps instead:
 
 1. **Skill-Builder** interviews you. It's looking for what you
    *actually do*, not what you *wish* you did. At the end it produces a
-   **Session Brief** — a single Markdown file capturing your situation,
-   behavioral patterns, constraints, and a proposed solution direction.
+   **Session Brief**: a single Markdown file capturing your situation,
+   patterns, constraints, and a proposed solution direction.
 
 2. **Solution-Builder** reads the Session Brief and builds the artifact. Because
-   it knows your context specifically, what it produces is shaped around you —
+   it knows your context specifically, what it produces is shaped around your needs,
    not a generic template you'll tweak once and ignore.
 
-The output might be a reusable prompt, a checklist, a workflow, or just "do X." The most important thing is that it properly fits your needs, constraints, and preferences, and is designed to be used and reused over time to solve your actual problem.
+The output might be a reusable prompt, a checklist, a workflow, or just "do X." The most important thing is that it properly fits your requirements, constraints, and preferences, and is designed to be used and reused over time to solve your actual problem.
 
 ---
 
