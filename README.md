@@ -1,5 +1,5 @@
 # starter-kit-skills
-A pair of AI skill files for figuring out what you actually need, and then building it.
+A pair of AI skill files (more on skill files [here](https://agentskills.io)) for figuring out what you actually need, and then building it.
 
 ---
 
